@@ -6,7 +6,7 @@ J'ai participé à la mise en place de la map Leaflet (docs, résolution de bugs
 
 Coloration des épingles en place (filtres par statut).
 
-Mis en place de la page "équipe" sur le footer.
+Mis en place de la page "équipe" "Comment Ca Marche" "Liens Externes" "Mentions Légales" sur le footer.
 
 Elaboration du design du site, proposition d'idées sur le fonctionnement. 
 
